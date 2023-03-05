@@ -1,0 +1,52 @@
+.button {
+    border-radius: 4px;
+    width: 120px;
+    height: 35px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.disabled {
+    background-color: #0059b3;
+    opacity: 40%;
+    color: grey;
+}
+
+.secondary {
+    width: 200px;
+    border: 2px solid #0059b3;
+    color: #0059b3;
+    background-color: #FFFFFF;
+}
+
+.default {
+    background-color: #0059b3;
+    color: white;
+}
+
+.red {
+    background-color: #cc0000;
+    color: white;
+}
+
+.default:hover {
+}
+
+.red:hover {
+}
+
+.secondary:hover {
+}
+
+
+.default:active {
+}
+
+.secondary:active {
+}
+
+.red:active {
+}
+
+.button:disabled {
+}

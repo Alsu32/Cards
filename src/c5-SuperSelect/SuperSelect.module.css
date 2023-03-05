@@ -1,0 +1,12 @@
+.select {
+    width: 100px;
+    opacity: 50%;
+
+}
+
+.select:focus {
+}
+
+
+.option:hover {
+}
