@@ -3,5 +3,9 @@
   flex-direction: column;
   justify-content: space-evenly;
   margin: 20px 50px;
-
+}
+.menu {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
 }
